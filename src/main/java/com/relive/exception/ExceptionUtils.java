@@ -1,4 +1,4 @@
-package relive.exception;
+package com.relive.exception;
 
 import java.io.IOException;
 import java.io.PrintWriter;

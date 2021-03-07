@@ -1,4 +1,4 @@
-package relive.exception;
+package com.relive.exception;
 
 import com.relive.api.Result;
 import lombok.extern.slf4j.Slf4j;

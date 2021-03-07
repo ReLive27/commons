@@ -1,4 +1,4 @@
-package relive.exception;
+package com.relive.exception;
 
 /**
  * 工具类异常

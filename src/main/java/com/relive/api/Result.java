@@ -1,4 +1,4 @@
-package relive.api;
+package com.relive.api;
 
 import lombok.Data;
 

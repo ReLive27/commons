@@ -1,4 +1,4 @@
-package relive.exception;
+package com.relive.exception;
 
 /**
  * 业务异常
